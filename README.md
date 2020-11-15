@@ -1,1 +1,1 @@
-# CS112_Data-Structures-Algorithms
+# CS112 Data Structures Algorithms [Boston University]
